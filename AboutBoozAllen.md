@@ -8,8 +8,8 @@ With international headquarters in McLean, Virginia, the firm employs more than 
 ## About Booz Allen's Systems Delivery
 Booz Allen provides a full-stack, enterprise systems delivery capability and provides high-performing, cross-functional agile teams. We engage and lead across the full lifecyle: from user research and human-centered design, through technical implementation and help-desk support. We employ over 3500 software development staff across a variety of disciplines.
 
-We approach agility with responsibility. Booz Allen maintains a current Capability Maturity Model Integration (CMMI) for Development (CMMI-DEV) Maturity Level 3 appraisal rating for its IT Team Development Organization. Initially achieved in September
-2005 through an appraisal led by the Software Engineering Institute (SEI) (now known as the CMMI Institute), this rating was most recently refreshed in October 2014 by an external appraiser. The firm has completed 16 consecutive successful CMM/CMMI appraisals. 
+We approach agility with responsibility. Booz Allen maintains a current Capability Maturity Model Integration (CMMI) for Development (CMMI-DEV) Maturity Level 5 appraisal rating for its IT Team Development Organization. Initially achieved in September
+2005 through an appraisal led by the Software Engineering Institute (SEI) (now known as the CMMI Institute), this rating was most recently refreshed in June 2016 by an external appraiser. The firm has completed 17 consecutive successful CMM/CMMI appraisals. 
 
 
 ## About Booz Allen's Agile practice and experience
